@@ -1,0 +1,29 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #FFFFFF;
+    color: #5988FF;
+}
+
+h1 {
+    color: #FD98FB;
+}
+
+p {
+    color: #D6FF6B;
+}
+
+.highlight {
+    background-color: #FD98FB;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: #D6FF6B;
+    color: #5988FF;
+    padding: 8px 16px;
+    border: 2px solid #5988FF;
+    border-radius: 5px;
+    text-decoration: none;
+}
